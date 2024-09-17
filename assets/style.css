@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    overflow-x: hidden;
+}
+
+
+/* ------------------Navbar----------------------- */
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 71px;
+    background-color: palevioletred;
+  }
+  
+  .nav-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 70%;
+  }
+  
+  .text-white {
+    color: white;
+  }
+
+  
